@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x28B23EfC6592640d5e4074424e30cD7bA2b50174",
+  "SCAN_LINK": "https://bscscan.com/token/0x28B23EfC6592640d5e4074424e30cD7bA2b50174",
+  "NETWORK": {
+    "NAME": "Smart Chain ",
+    "SYMBOL": "BNB",
+    "ID": 56
+  },
+  "NFT_NAME": "Flash Chip",
+  "SYMBOL": "FLC",
+  "MAX_SUPPLY": 6000,
+  "WEI_COST": 1250000000000000,
+  "DISPLAY_COST": 0,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/nerdy-coder-clones",
+  "SHOW_BACKGROUND": true
+}
